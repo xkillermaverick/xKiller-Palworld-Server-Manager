@@ -1,0 +1,11 @@
+psutil
+Requests
+schedule
+customtkinter
+gamercon-async
+palworld-api
+discord.py
+pywin32
+pystray
+pillow
+tqdm

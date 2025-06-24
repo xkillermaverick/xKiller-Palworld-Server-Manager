@@ -1,0 +1,9 @@
+.git/
+.github/
+.vs/
+.vscode/
+assets/updates/
+assets/Settings.json
+__pycache__/
+venv/
+*.code-workspace
